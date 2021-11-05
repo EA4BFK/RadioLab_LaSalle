@@ -1,9 +1,12 @@
 # RadioLab_LaSalle
 Lectures for Radio Club La Salle
 
-Here you will find different Lectures I've made for
-Radio Club La Salle.
+Here you will find the three Lectures about Kicad EDA software and how to use
+for Radio Frequency designs I've done for Radio Club La Salle in Barcelona.
 
-Enjoy
+Recordings of the lectures are available in my YouTube Channel
+https://www.youtube.com/channel/UCAeccb_g0U5kizpTxCSzKbw
+
+Regards
 
 Alex
